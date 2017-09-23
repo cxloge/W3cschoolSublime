@@ -8,7 +8,7 @@
 
 Sublime Text的界面如下：
 
-![img](https://img.w3cschool.cn/attachments/day_160804/201608041952585076.jpg)
+![img](images/201608041952585076.jpg)
 
 - 标签（Tab）：无需介绍。
 - 编辑区（Editing Area）：无需介绍。

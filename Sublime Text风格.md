@@ -8,11 +8,11 @@
 
 Notepad++默认界面
 
-![img](https://img.w3cschool.cn/attachments/image/cimg/2015-09-05_55ea712547197.jpg)
+![img](images/2015-09-05_55ea712547197.jpg)
 
 Sublime Text默认界面
 
-![img](https://img.w3cschool.cn/attachments/image/cimg/2015-09-05_55ea71257b567.jpg)
+![img](images/2015-09-05_55ea71257b567.jpg)
 
 所以在用过Sublime Text之后，我立刻就卸掉了Notepad++。
 
@@ -36,7 +36,7 @@ Sublime Text自带的风格是我喜欢的深色风格（也可以调成浅色�
 
 设置之后的效果如下：
 
-![img](https://img.w3cschool.cn/attachments/image/cimg/2015-09-05_55ea7125c8989.jpg)
+![img](images/2015-09-05_55ea7125c8989.jpg)
 
 ### 主题（Themes）
 
@@ -44,27 +44,27 @@ Sublime Text有大量第三方主题：[[https://sublime.wbond.net/browse/labels
 
 Soda Light
 
-![img](https://img.w3cschool.cn/attachments/image/cimg/2015-09-05_55ea71263649a.jpg)
+![img](images/2015-09-05_55ea71263649a.jpg)
 
 Soda Dark
 
-![img](https://img.w3cschool.cn/attachments/image/cimg/2015-09-05_55ea7126622d5.jpg)
+![img](images/2015-09-05_55ea7126622d5.jpg)
 
 Nexus
 
-![img](https://img.w3cschool.cn/attachments/image/cimg/2015-09-05_55ea712bb3968.jpg)
+![img](images/2015-09-05_55ea712bb3968.jpg)
 
 Flatland
 
-![img](https://img.w3cschool.cn/attachments/image/cimg/2015-09-05_55ea7130dd2d0.jpg)
+![img](images/2015-09-05_55ea7130dd2d0.jpg)
 
 Spacegray Light
 
-![img](https://img.w3cschool.cn/attachments/image/cimg/2015-09-05_55ea71314855c.jpg)
+![img](images/2015-09-05_55ea71314855c.jpg)
 
 Spacegray Dark
 
-![img](https://img.w3cschool.cn/attachments/image/cimg/2015-09-05_55ea71316ee68.jpg)
+![img](images/2015-09-05_55ea71316ee68.jpg)
 
 ### 配色（Color）
 
@@ -79,4 +79,4 @@ colorsublime包含了大量Sublime Text配色方案，并支持在线预览，�
 
 效果如下：
 
-![img](https://img.w3cschool.cn/attachments/image/cimg/2015-09-05_55ea7131bb0de.jpg)
+![img](images/2015-09-05_55ea7131bb0de.jpg)

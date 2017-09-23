@@ -8,17 +8,17 @@
 
 注意在安装时勾选Add to explorer context menu，这样在右键单击文件时就可以直接使用Sublime Text打开。
 
-![img](https://img.w3cschool.cn/attachments/image/cimg/2015-09-05_55ea6f093d8bd.jpg)
+![img](images/2015-09-05_55ea6f093d8bd.jpg)
 
 ### 添加Sublime Text到环境变量
 
 使用Win + R运行sysdm.cpl打开“系统属性”。
 
-![img](https://img.w3cschool.cn/attachments/image/cimg/2015-09-05_55ea6f09a5c7b.jpg)
+![img](images/2015-09-05_55ea6f09a5c7b.jpg)
 
 然后在“高级”选项卡里选择“环境变量”，编辑“Path”，增加Sublime Text的安装目录（例如D:Program FilesSublime Text 3）。
 
-![img](https://img.w3cschool.cn/attachments/image/cimg/2015-09-05_55ea6f0a2fffb.jpg)
+![img](images/2015-09-05_55ea6f0a2fffb.jpg)
 
 接下来你就可以在命令行里面利用subl命令直接使用Sublime Text了：
 
@@ -43,8 +43,8 @@ import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330
 
 - 等待Package Control安装完成。之后使用Ctrl + Shift + P打开命令板，输入PC应出现Package Control：
 
-![img](https://img.w3cschool.cn/attachments/image/cimg/2015-09-05_55ea6f0b0e8e9.jpg)
+![img](images/2015-09-05_55ea6f0b0e8e9.jpg)
 
 成功安装Package Control之后，我们就可以方便的安装使用Sublime Text的各种插件：
 
-![img](https://img.w3cschool.cn/attachments/image/cimg/2015-09-05_55ea6f0bc79ef.gif)
+![img](images/2015-09-05_55ea6f0bc79ef.gif)

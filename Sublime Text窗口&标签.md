@@ -18,7 +18,7 @@ Sublime Text是一个多窗口多标签编辑器：我们既可以开多个Subli
 
 编辑代码时我们经常会开多个窗口，所以分屏很重要。Alt + Shift + 2进行左右分屏，Alt + Shift + 8进行上下分屏，Alt + Shift + 5进行上下左右分屏（即分为四屏）。
 
-![img](https://img.w3cschool.cn/attachments/image/cimg/2015-09-05_55ea70e608a59.gif)
+![img](images/2015-09-05_55ea70e608a59.gif)
 
 分屏之后，使用Ctrl + 数字键跳转到指定屏，使用Ctrl + Shift + 数字键将当前屏移动到指定屏。例如，Ctrl + 1会跳转到1屏，而Ctrl + Shift + 2会将当前屏移动到2屏。
 
@@ -30,8 +30,8 @@ Sublime Text有两种全屏模式：普通全屏和无干扰全屏。
 
 F11切换普通全屏：
 
-![img](https://img.w3cschool.cn/attachments/image/cimg/2015-09-05_55ea70e67641c.jpg)
+![img](images/2015-09-05_55ea70e67641c.jpg)
 
 Shift + F11切换无干扰全屏：
 
-![img](https://img.w3cschool.cn/attachments/image/cimg/2015-09-05_55ea70e6ca083.jpg)
+![img](images/2015-09-05_55ea70e6ca083.jpg)

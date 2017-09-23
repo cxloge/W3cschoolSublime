@@ -29,7 +29,7 @@
 
 Sublime Text支持代码段（Code Snippet），输入代码段名称后Tab即可生成代码段。
 
-![img](https://img.w3cschool.cn/attachments/image/cimg/2015-09-05_55ea717f96a21.gif)
+![img](images/2015-09-05_55ea717f96a21.gif)
 
 你可以通过Package Control安装第三方代码段，也可以自己创建代码段，参考这里。
 
@@ -47,23 +47,23 @@ Sublime Text基本的手动格式化操作包括：Ctrl + [向左缩进，Ctrl +
 
 Sublime Text 支持一定的自动完成，按Tab自动补全。
 
-![img](https://img.w3cschool.cn/attachments/image/cimg/2015-09-05_55ea717feabf7.jpg)
+![img](images/2015-09-05_55ea717feabf7.jpg)
 
 ### 括号（Brackets）
 
 编写代码时会碰到大量的括号，利用Ctrl + M可以快速的在起始括号和结尾括号间切换，Ctrl + Shift + M则可以快速选择括号间的内容，对于缩进型语言（例如Python）则可以使用Ctrl + Shift + J。
 
-![img](https://img.w3cschool.cn/attachments/image/cimg/2015-09-05_55ea718016551.gif)
+![img](images/2015-09-05_55ea718016551.gif)
 
 此外，我使用BracketHighlighter插件以高亮显示配对括号以及当前光标所在区域，效果如下：
 
-![img](https://img.w3cschool.cn/attachments/image/cimg/2015-09-05_55ea71803ff92.gif)
+![img](images/2015-09-05_55ea71803ff92.gif)
 
 ### 命令行（Command Line）
 
 尽管提供了Python控制台，但Sublime Text的控制台仅支持单行输入，十分不方便，所以我使用SublimeREPL以进行一些编码实验（Experiments）。
 
-![img](https://img.w3cschool.cn/attachments/image/cimg/2015-09-05_55ea71809a7b5.gif)
+![img](images/2015-09-05_55ea71809a7b5.gif)
 
 ### 其它（Miscellaneous）
 
