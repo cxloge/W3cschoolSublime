@@ -27,7 +27,7 @@
         * [Sublime Text 3 无干扰模式](Sublime Text 3 无干扰模式.md)
         * [Sublime Text 3 经典模式](Sublime Text 3 经典模式.md)
         * [Sublime Text 3 项目](Sublime Text 3 项目.md)
-    * [Sublime Text 3 自定义](ublime Text 3 自定义.md)
+    * [Sublime Text 3 自定义](Sublime Text 3 自定义.md)
         * [Sublime Text 3 设置](Sublime Text 3 设置.md)
         * [Sublime Text 3 更改字体](Sublime Text 3 更改字体.md)
         * [Sublime Text 3 缩进设置](Sublime Text 3 缩进设置.md)
