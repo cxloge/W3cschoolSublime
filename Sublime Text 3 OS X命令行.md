@@ -11,6 +11,7 @@ ln -s "/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl" ~/bin/sub
 ```
 ## 用法
 运行subl --help，
+
 ```
 Usage: subl [arguments] [files]         edit the given files
    or: subl [arguments] [directories]   open the given directories
@@ -33,6 +34,36 @@ to the terminal when a file is closed (only relevant if waiting for a file).
 Filenames may be given a :line or :line:column suffix to open at a specific
 location.
 ```
+
+C:\Users\cxloge>subl -h
+Sublime Text build 3126
+
+Usage（用法）: 
+
+| 用法                             | 描述                         | 描述      |
+| ------------------------------ | -------------------------- | ------- |
+| subl [arguments][files\]       | edit the given files       | 编辑给定的文件 |
+| subl [arguments][directories\] | open the given directories | 打开给定的目录 |
+
+Arguments（参数）:
+
+| 参数                  | 描述                                       | 描述              |
+| ------------------- | ---------------------------------------- | --------------- |
+| --project <project> | Load the given project                   | 加载给定的项目         |
+| --command <command> | Run the given command                    | 运行给定的命令         |
+| -n or --new-window  | Open a new window                        | 打开一个新窗口         |
+| -a or --add         | Add folders to the currenst window       | 将文件夹添加到当前窗口     |
+| -w or --wait        | Wait for the files to be closed before returning | 等待文件关闭，然后返回     |
+| -b or --background  | Don't activate the application           | 不要激活应用程序        |
+| -s or --stay        | Keep the application activated after closing the file | 关闭文件后，保持应用程序的激活 |
+| -h or --help        | Show help (this message) and exit        | 显示帮助（此消息）并退出    |
+| -v or --version     | Show version and exit                    | 显示版本并退出         |
+
+Filenames may be given a :line or :line:column suffix to open at a specific
+location.（文件名可能被赋予：line或：line：column后缀以在特定的位置打开
+位置。）
+
+
 
 ## 编辑
 
